@@ -21,7 +21,7 @@ A comprehensive management system for kindergartens and schools, designed to str
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kiddy-class.git
+   git clone https://github.com/TristanBrian/kiddy-class.git
    cd kiddy-class
    ```
 2. Install dependencies:
